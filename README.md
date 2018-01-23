@@ -35,7 +35,7 @@ exm?pods？自从开始用RN开发都感觉都不认识这个了，嫌麻烦没�
 <img width="278" height="340" src="https://github.com/Dawninest/react-native-sqlite-storage-sqlcipher/blob/master/ImgForRead/屏幕快照%202018-01-23%20上午10.48.57.png"/><br>
 去掉 SQLite.xcodeproj/SQLite.m 用 #ifdef / #endif 的屏蔽<br>
 <img width="420" height="173" src="https://github.com/Dawninest/react-native-sqlite-storage-sqlcipher/blob/master/ImgForRead/屏幕快照%202018-01-23%20上午10.47.43.png"/><br>
-顶上加上处理c99问题的代码
+顶上加上处理c99问题的代码<br>
 <img width="666" height="114" src="https://github.com/Dawninest/react-native-sqlite-storage-sqlcipher/blob/master/ImgForRead/屏幕快照%202018-01-23%20上午10.48.01.png"/><br>
 
 工程文件考虑后续做个demo放上来<br> 
