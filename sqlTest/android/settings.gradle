@@ -1,0 +1,3 @@
+rootProject.name = 'sqlTest'
+
+include ':app'
