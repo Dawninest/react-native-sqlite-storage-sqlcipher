@@ -38,7 +38,9 @@ exm?pods？自从开始用RN开发都感觉都不认识这个了，嫌麻烦没�
 顶上加上处理c99问题的代码<br>
 <img width="666" height="114" src="https://github.com/Dawninest/react-native-sqlite-storage-sqlcipher/blob/master/ImgForRead/屏幕快照%202018-01-23%20上午10.48.01.png"/><br>
 
-工程文件考虑后续做个demo放上来<br> 
+demo项目sqlTest已上传<br>
+npm install / react-native link 等一顿操作之后，将这里提供的 react-native-sqlite-storage 替换原 node_modules 下的文件 (相对于原版也就加两行代码的事情)<br>
+按照文档集成sqlcipher之后即可使用<br>
 つづく
 
 
